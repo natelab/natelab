@@ -2,7 +2,7 @@
 
 I hold a BsC in Information Technology and I am passionate about building web apps and learning new technologies.
 
-## 🛠️ Languages and Tools
+---
 
 ## 🛠️ Languages and Tools
 
