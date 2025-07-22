@@ -41,12 +41,7 @@ I hold a BsC in Information Technology and I am passionate about building web ap
   <a href="https://dotnet.microsoft.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
   </a>
-
-  <!-- ASP.NET MVC (reusing .NET icon) -->
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET MVC" width="40" height="40"/>
-  </a>
-
+  
   <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
